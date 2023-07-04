@@ -22,8 +22,8 @@ title: Romacoon maine coons
 email: romacoon@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Breeding beautiful maine coons kittens since 2008
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.romacoon.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "www.romacoon.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logo.jpg
 copyright: Romacoon maine coons 2023
 # Build settings
