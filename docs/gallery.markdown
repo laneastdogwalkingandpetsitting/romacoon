@@ -10,7 +10,7 @@ gallery_images:
  - name: Ellie
    filename: ellie.jpg
  - name: Jakatta Charlie Brown
-   filename: Jakatta.jpg
+   filename: Jakatta_charlie_brown.jpg
  - name: Luna moon
    filename: luna_moon.jpg
  - name: Magazia

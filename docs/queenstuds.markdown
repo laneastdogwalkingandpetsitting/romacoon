@@ -6,13 +6,13 @@ permalink: /queenstuds/
 These are my beautiful queens & studs:
 
 ## Stud - Jakatta Charlie Brown
+![Jakatta Charlie Brown](/assets/images/gallery/Jakatta_charlie_brown50pc.jpg){: .align-right}
 
-<div class="align-right" style="text-align:center">
-    <img src="/assets/images/gallery/Jakatta.jpg" class="align-right" alt="">
-    <br/>
-    <em>Jakatta Charlie Brown</em>
-</div>
+Jakatta Charlie Brown is my most recent stud cat who joined me in June 2023.
+<div style="float:none"></div>
+## Queen - Jakatta Midnight Sapphire "Wilma" 
 
-Jakatta is my most recent stud cat who joined me in June 2023.
+![Jakatta midnght sapphire](/assets/images/gallery/Jakatta_minight_sapphire25pc.jpg){: .align-right}
+
 
 > *Coming soon: Information/background about Jakatta*
