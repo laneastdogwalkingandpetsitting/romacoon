@@ -30,6 +30,8 @@ copyright: Romacoon maine coons 2023
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+head_scripts:
+  - /assets/js/forcenavopen.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.

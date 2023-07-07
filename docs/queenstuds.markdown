@@ -6,8 +6,13 @@ permalink: /queenstuds/
 These are my beautiful queens & studs:
 
 ## Stud - Jakatta Charlie Brown
-![Jakatta Charlie Brown](/assets/images/gallery/Jakatta.jpg){: .align-right}
+
+<div class="align-right" style="text-align:center">
+    <img src="/assets/images/gallery/Jakatta.jpg" class="align-right" alt="">
+    <br/>
+    <em>Jakatta Charlie Brown</em>
+</div>
 
 Jakatta is my most recent stud cat who joined me in June 2023.
 
-*Information/background about Jakatta*
+> *Coming soon: Information/background about Jakatta*
