@@ -10,7 +10,7 @@ gallery_images:
  - name: Ellie
    filename: ellie.jpg
  - name: Jakatta Charlie Brown
-   filename: Jakatta.jpg
+   filename: Jakatta_charlie_brown.jpg
  - name: Luna moon
    filename: luna_moon.jpg
  - name: Magazia
@@ -23,7 +23,7 @@ gallery_images:
    filename: scarlet_ohara.jpg
 
 ---
-This is a gallery of my cats and kittens:
+This is a gallery of some of my cats and kittens (past and present):
  <div style="display:flex; flex-wrap: wrap;">
   {% for img in page.gallery_images %}
     <div style="padding:10px; text-align: center">
@@ -31,7 +31,7 @@ This is a gallery of my cats and kittens:
       <a href="/assets/images/gallery/{{ img.filename }}">
           <img src="/assets/images/gallery/tn_{{ img.filename }}" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
       </a>
-      <br/>
+      <br/> 
       {{ img.name }}
     </div>
   {% endfor %}

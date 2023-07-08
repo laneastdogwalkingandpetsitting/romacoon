@@ -2,10 +2,10 @@
   url: /
 - title: Queens & studs
   url: /queenstuds/
-- title: Gallery
-  url: /gallery/
 - title: Kittens
   url: /kittens
+- title: Gallery
+  url: /gallery/
 - title: Location
   url: /location/
 - title: Testimonials
