@@ -8,5 +8,7 @@
   url: /kittens
 - title: Location
   url: /location/
+- title: Testimonials
+  url: /testimonials/
 - title: Contact me
   url: /contact/
