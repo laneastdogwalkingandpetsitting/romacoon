@@ -6,3 +6,4 @@ vendor
 docs/.vs/docs/v16/.suo
 docs/.vs/slnx.sqlite
 docs/.vs/docs/v16/.suo
+*.sqlite

@@ -3,6 +3,15 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
+### Current kittens for sale
+
+No kittens for sale at present...
+
+### Expected kitten litters coming up
+
+...I am expecting a litter sometime in 2023. Please [contact me](/contact/) for more details
+
+<hr/>
 All kittens come with:
 <ul>
 	<li><i class="fa-solid fa-check" style="color: #00ff00;"></i> Kitten Terms of sale</li>
@@ -39,13 +48,4 @@ with the kittens as opposed to taking photos. Please remember kittens are raised
 
 Before a visit and when I provide my address for you, I expect you to do the same and this is checked for 
 security reasons. If you would like to discuss a current kitten, please contact me - details are on the contact 
-me page .
-
-
-### Current kittens for sale
-
-No kittens for sale at present...
-
-### Expected kitten litters coming up
-
-...I am expecting a litter sometime in 2023. Please [contact me](/contact/) for more details
+me page.

@@ -47,8 +47,8 @@ These are my beautiful queens & studs:
 
 <div class="notice">
     
-    <img src="/assets/images/gallery/Jakatta_minight_sapphire330x480.png" style="float:left; padding:5px">
-    <h3>Ch Coonflakes Take That & Party "Howie"</h3>    
+    <img src="/assets/images/gallery/Ch_Coonflakes_Take_That_and_Party12pc.png" style="float:left; padding:5px">
+    <h3>Ch Coonflakes Take That & Party "Howie"</h3>
     <p>
     Howie is a very vibrant silver tortie & white tabby. Howie is the matriarch of the clan – what she says goes! She has been an amazing mother to previous litters.
     </p>
