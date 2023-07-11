@@ -22,7 +22,7 @@ a reasonable time. A kitten will not be classed as reserved until a deposit is r
 clear the kitten will be made available to the next person on the waiting list. I reserve the right to refuse 
 sale with no explanation.
 
-## Conditions of sale for cats/kitens sold as a pet/companion:
+## Conditions of sale (for cats/kittens sold as a pet/companion):
 
  - The kitten terms of sale must be signed before a reservation can be made, if you wish to see this before your kitten visit, please ask for a copy.
  - All health certificates, sire & dam registration certificates, pedigree, TICA and GCCF cattery membership are available for viewing on request.
