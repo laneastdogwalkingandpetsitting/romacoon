@@ -32,6 +32,12 @@ plugins:
   - jekyll-feed
 head_scripts:
   - /assets/js/forcenavopen.js
+  - https://kit.fontawesome.com/47da235cd8.js
+ 
+exclude:
+ - .vs/
+
+ # - /assets/css/styles.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.

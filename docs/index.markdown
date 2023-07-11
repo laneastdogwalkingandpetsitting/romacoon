@@ -19,4 +19,4 @@ I am dedicated to breeding healthy, well socialized & confident maine coon kitte
 
 My cattery is registered with [GCCF](https://www.gccfcats.org/) & [TICA](https://tica.org) 
 
-All of my breeding cats have been health tested and are clear from HCM, SMA, PKdef, PKD & FELV/FIV. This is very important to me, being a retired qualified veterinary nurse in excess of 20 years.
+All of my breeding cats have been health tested and are clear from HCM, SMA, PKdef, PKD & FELV/FIV. This is very important to me, being qualified veterinary nurse for more than 20 years. I am now sadly retired. 
