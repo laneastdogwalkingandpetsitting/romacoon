@@ -33,6 +33,7 @@ plugins:
 head_scripts:
   - /assets/js/forcenavopen.js
   - https://kit.fontawesome.com/47da235cd8.js
+google_analytics: G-L0Y0517D7F
  
 exclude:
  - .vs/
