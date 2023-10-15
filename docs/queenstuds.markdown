@@ -18,6 +18,19 @@ These are my beautiful queens & studs:
     <p>He is a gorgeous Brown / White Mackerel Tabby.</p>
 </div>
 
+<div style="clear:both"></div>
+
+<div class="notice">
+        
+    <img src="/assets/images/studqueen/Alisika_Clockwork_Orange.jpg" style="float:left; padding:10px"/>
+    <h3>Alisika Clockwork Orange</h3>
+    <p>Albert is the new kid on the block - he has come from my very good friend Alison Blades - Alisika Maine Coons. Can't wait to see how this lad matures. </p>
+    
+    <p>He is a gorgeous Brown / White Mackerel Tabby.</p>
+</div>
+
+
+
 <div style="clear:left"></div>
 
 <div class="notice--danger">
@@ -36,10 +49,10 @@ These are my beautiful queens & studs:
 
 <div class="notice">
     
-    <img src="/assets/images/gallery/Micatta_Sabine_Wren330x480.png" style="float:left; padding:10px">
-    <h3>Micatta Sabine "Wren"</h3>    
+    <img src="/assets/images/studqueen/Alisika_Scarlett_OHara.jpg" style="float:left; padding:10px">
+    <h3>Alisika Scarlett O'Hara</h3>    
     <p>
-    Wren is a stunning soild blue girl. Wren is the baby of the group. Always looking for trouble to get into – Life is never boring with Wren around.
+    Scarlett has come from Alisika Cattery in Nottingham. She is a stunning red tabby. This lovely lady settled in as if she had always lived here.
     </p>
 </div>
 
@@ -53,6 +66,19 @@ These are my beautiful queens & studs:
     Howie is a very vibrant silver tortie & white tabby. Howie is the matriarch of the clan – what she says goes! She has been an amazing mother to previous litters.
     </p>
 </div>
+
+<div style="clear:both"></div>
+
+<div class="notice">
+    
+    <img src="/assets/images/studqueen/Romacoon_Doris_Day.jpg" style="float:left; padding:5px">
+    <h3>Romacoon Doris Day "Doris"</h3>
+    <p>
+    This little lady is my homebred solid tortie and white girl. From the moment she was born I knew she would stay - Doris is the daughter of Wilma.
+    </p>
+</div>
+
+
 
 <div style="clear:both"></div>
 

@@ -3,21 +3,10 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
-### Current kittens for sale
 
-No kittens for sale at present, but...
+### No kittens currently available ... but we are looking forward to kittens in 2024!
 
-### Expected kitten litters coming up:
-
-{: .notice--success}
-[Lando Bellamondo *PL](){: .btn .btn--info}
-&amp;
-[Jakkata Midnight Sapphire *UK](){: .btn .btn--danger}{: .text-center} <br/>
-Are the proud parents of a beautiful litter of kittens, born 28th June 2023
-
-Note: *** All kittens are under evaluation at present &amp; will not be released until 1st vaccination ***
-
-If you are interested, please read the kitten &amp; [FAQ's](/faqs/) page for further details
+For more information, please read the kitten &amp; [FAQ's](/faqs/) page for further details
 <hr/>
 All kittens come with:
 <ul>
