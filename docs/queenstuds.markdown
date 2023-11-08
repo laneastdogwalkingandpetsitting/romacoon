@@ -54,16 +54,6 @@ These are my beautiful queens & studs:
     </p>
 </div>
 
-<div style="clear:both"></div>
-
-<div class="notice">
-    
-    <img src="/assets/images/gallery/Ch_Coonflakes_Take_That_and_Party12pc.png" style="float:left; padding:5px">
-    <h3>Ch Coonflakes Take That & Party "Howie"</h3>
-    <p>
-    Howie is a very vibrant silver tortie & white tabby. Howie is the matriarch of the clan – what she says goes! She has been an amazing mother to previous litters.
-    </p>
-</div>
 
 <div style="clear:both"></div>
 
@@ -76,18 +66,4 @@ These are my beautiful queens & studs:
     </p>
 </div>
 
-
-
 <div style="clear:both"></div>
-
-<div class="notice--warning">
-    <h1>Neuter</h1>
-</div>
-
-<div class="notice">
-<img src="/assets/images/gallery/Romacoon_Walter_Wombat330x480.png" style="float:left; padding:10px">
-    <h3>Romacoon Walter Wombat</h3>    
-    <p>
-    Romacoon Walter Wombat – Walter is a classic brown / white tabby . Walter is my home grown boy – The clown of the cattery. Walter reminds me so much of my soul mate Alfie. So he just had to stay.
-    </p>
-</div>

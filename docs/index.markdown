@@ -8,9 +8,9 @@ title: Welcome to Romacoon maine coons
 Hello and welcome to Romacoon maine coons
 
 <div class="align-right" style="text-align:center">
-    <img src="/assets/images/gallery/Ch_Coonflakes_Take_That_and_Party12pc.png" class="align-right" alt="">
+    <img src="/assets/images/gallery/walter357x384.jpg" class="align-right" alt="" width="">
     <br/>
-    <em>Coonflakes take that and party</em>
+    <em>Walter – Romacoon Walter Wombat</em>
 </div>
 
 My name is Karen Hancock I am a small hobby breeder based in Bristol. I am a committee member of [The Maine Coon Cat Club](http://www.maine-coon-cat-club.com/) and the Maine Coon BAC  (Breed advisory committee). I have been breeding these majestic cats since 2008. 
