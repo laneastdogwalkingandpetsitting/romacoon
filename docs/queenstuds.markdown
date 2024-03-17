@@ -67,3 +67,15 @@ These are my beautiful queens & studs:
 </div>
 
 <div style="clear:both"></div>
+
+
+<div class="notice">
+    
+    <img src="/assets/images/studqueen/Tolinka_Rowena330x329.jpg" style="float:left; padding:5px">
+    <h3>Tolinka Rowena "Roo"</h3>
+    <p>
+    Roo has come from up north  ~ Tolinka cattery and my good friend Charlene. Roo is a Silver Tortie, she’s a cheeky  mischievous monkey who is a delight to have around.
+    </p>
+</div>
+
+<div style="clear:both"></div>
