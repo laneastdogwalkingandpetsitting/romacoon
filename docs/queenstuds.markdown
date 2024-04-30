@@ -11,17 +11,6 @@ These are my beautiful queens & studs:
 
 <div class="notice">
         
-    <img src="/assets/images/studqueen/CharlieOnPedestal.jpg" style="float:left; padding:10px"/>
-    <h3>Jakatta Charlie Brown</h3>
-    <p>Charlie Brown is a fun loving mischievous boy from Jakatta Cattery. I am very excited about what the future holds with Charlie’s offspring.</p>
-    
-    <p>He is a gorgeous Brown / White Mackerel Tabby.</p>
-</div>
-
-<div style="clear:both"></div>
-
-<div class="notice">
-        
     <img src="/assets/images/studqueen/Alisika_Clockwork_Orange.jpg" style="float:left; padding:10px"/>
     <h3>Alisika Clockwork Orange "Arthur"</h3>
     <p>Arthur is the new kid on the block - he has come from my very good friend Alison Blades - Alisika Maine Coons. Can't wait to see how this lad matures. </p>

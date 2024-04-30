@@ -1,0 +1,10 @@
+<div class="notice">
+        
+    <img src="/assets/images/studqueen/CharlieOnPedestal.jpg" style="float:left; padding:10px"/>
+    <h3>Jakatta Charlie Brown</h3>
+    <p>Charlie Brown is a fun loving mischievous boy from Jakatta Cattery. I am very excited about what the future holds with Charlie’s offspring.</p>
+    
+    <p>He is a gorgeous Brown / White Mackerel Tabby.</p>
+</div>
+
+<div style="clear:both"></div>
