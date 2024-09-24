@@ -4,20 +4,28 @@ title: Kittens
 permalink: /kittens/
 ---
 
-### New kittens!
-
-
-<p><strong>Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) welcomed 8 gorgeous kittens into the world Saturday 6th July.</strong></p>
-
-<div style="float:left; padding:10px">
-<img src="/assets/images/kittens2024.jpg">
+<p><strong>Kittens of Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) that are still available:</strong></p>
+<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
+	<p style="text-align:center">Romacoon Nebula - red silver tabby &amp; white. Female
+	<img src="/assets/images/Romacoon_Nebula.jpg"></p>
 </div>
-<p>6 girls and 2 boys - mum and babies are doing well.</p>
+<br/>
+<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
+<p style="text-align:center">Romacoon Eclipse - blue tortie smoke. Female
+<img src="/assets/images/Romacoon_Eclipse.jpg"></p>
+</div>
+<br/>
+<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
+<p style="text-align:center">Romacoon Pandora - blue silver tabby &amp; white. Female
+<img src="/assets/images/Romacoon_Pandora.jpg"></p>
+</div>
+<br/>
 
-<p><a href="/contact/">Enquiries are welcome</a> - although all the girls are under evaluation - no visits unfortunately until after 1st vaccination when the kittens are 9 weeks old</p>
-<div style="clear:both"></div>
 
-For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details
+
+For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details.
+
+If you are interested, please do [contact me.](/contact/)
 <hr/>
 All kittens come with:
 <ul>
