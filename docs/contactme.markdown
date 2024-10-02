@@ -9,7 +9,9 @@ permalink: /contact/
     <em>Blinky Bill</em>
 </div>
 
-Please feel free to contact me:
+<div style="clear:both"></div>
+
+#### Please feel free to contact me:
 
 Email: <a href="mailto:romacoon@icloud.com">romacoon@icloud.com</a>
 
