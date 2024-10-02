@@ -3,18 +3,13 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
-
-### New kittens!
-
-
 <p><strong>Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) welcomed 8 gorgeous kittens into the world Saturday 6th July.</strong></p>
 
 <div style="float:left; padding:10px">
 <img src="/assets/images/kittens2024.jpg">
 </div>
-<p>6 girls and 2 boys - mum and babies are doing well.</p>
 
-<p><a href="/contact/">Enquiries are welcome</a> - although all the girls are under evaluation - no visits unfortunately until after 1st vaccination when the kittens are 9 weeks old</p>
+<p>Many thanks for all the interest in the kittens, however all kittens are now reserved.</p>
 <div style="clear:both"></div>
 
 For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details
