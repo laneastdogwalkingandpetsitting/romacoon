@@ -3,7 +3,6 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
-<<<<<<< HEAD
 <p><strong>Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) welcomed 8 gorgeous kittens into the world Saturday 6th July.</strong></p>
 
 <div style="float:left; padding:10px">
@@ -12,27 +11,6 @@ permalink: /kittens/
 
 <p>Many thanks for all the interest in the kittens, however all kittens are now reserved.</p>
 <div style="clear:both"></div>
-=======
-
-<p><strong>Kittens of Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) that are still available:</strong></p>
-<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
-	<p style="text-align:center">Romacoon Nebula - red silver tabby &amp; white. Female
-	<img src="/assets/images/Romacoon_Nebula.jpg"></p>
-</div>
-<br/>
-<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
-<p style="text-align:center">Romacoon Eclipse - blue tortie smoke. Female
-<img src="/assets/images/Romacoon_Eclipse.jpg"></p>
-</div>
-<br/>
-<div style="width: 300px; padding:10px; margin: auto; background: lightpink; border-radius: 5px">
-<p style="text-align:center">Romacoon Pandora - blue silver tabby &amp; white. Female
-<img src="/assets/images/Romacoon_Pandora.jpg"></p>
-</div>
-<br/>
-
->>>>>>> 3e57ae64992cee58966234abc77faab5d777c78e
-
 
 For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details.
 
