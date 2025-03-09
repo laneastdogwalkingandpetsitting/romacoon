@@ -13,6 +13,6 @@ permalink: /contact/
 
 #### Please feel free to contact me:
 
-Email: <a href="mailto:romacoon@icloud.com">romacoon@icloud.com</a>
+Email: <a href="mailto:romacoon@email.com">romacoon@email.com</a>
 
 Mobile: 07956 700 667

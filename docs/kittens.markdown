@@ -3,14 +3,11 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
-<p><strong>Jakkatta Midnight Sapphire (Wilma) & Kelferron Glitter Rock (Frankie) welcomed 8 gorgeous kittens into the world Saturday 6th July.</strong></p>
+# Plans for 2025:
 
-<div style="float:left; padding:10px">
-<img src="/assets/images/kittens2024.jpg">
-</div>
-
-<p>Many thanks for all the interest in the kittens, however all kittens are now reserved.</p>
-<div style="clear:both"></div>
+ - Alisika Clockwork Orange 🧡 & Alisika Scarlett O'Hara 
+ - Romacoon Doris Day &  Kelferron Glitter Rock ?
+ - Tolinka Rowena & Kelferoon Glitter Rock or Alisika Clockwork Orange ?
 
 For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details.
 

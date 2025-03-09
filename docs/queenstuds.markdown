@@ -10,7 +10,6 @@ These are my beautiful queens & studs:
 </div>
 
 <div class="notice">
-        
     <img src="/assets/images/studqueen/arthur.jpg" style="float:left; padding:10px"/>
     <h3>Alisika Clockwork Orange "Arthur"</h3>
     <p>Arthur is the new kid on the block - he has come from my very good friend Alison Blades - Alisika Maine Coons. Can't wait to see how this lad matures. </p>
@@ -25,10 +24,10 @@ These are my beautiful queens & studs:
 </div>
 
 <div class="notice">
-    <img src="/assets/images/gallery/Jakatta_minight_sapphire330x480.png" style="float:left; padding:10px">
-    <h3>Jakatta Midnight Sapphire "Wilma"</h3>    
+    <img src="/assets/images/studqueen/raven.jpg" style="float:left; padding:10px">
+    <h3>Tolinka Witchy Woman - Raven</h3>    
     <p>
-    Wilma is a beautiful solid blue tortie & white tabby. Wilma has the same persona as Charlie coming from the same cattery. She’s beautiful to look at, complimented with a beautiful nature.
+    Raven has made the move South to join Rowena from Tolinka Cattery - I can not thank Charlene enough for allowing Raven to join Romacoon.
     </p>
 </div>
 
