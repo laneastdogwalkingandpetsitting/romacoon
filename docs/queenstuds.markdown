@@ -34,16 +34,6 @@ These are my beautiful queens & studs:
 <div style="clear:both"></div>
 
 <div class="notice">
-    <img src="/assets/images/studqueen/scarlet.jpg" style="float:left; padding:10px">
-    <h3>Alisika Scarlett O'Hara "Scarlett"</h3>    
-    <p>
-    Scarlett has come from Alisika Cattery in Nottingham. She is a stunning red tabby. This lovely lady settled in as if she had always lived here.
-    </p>
-</div>
-
-<div style="clear:both"></div>
-
-<div class="notice">
     <img src="/assets/images/studqueen/doris.jpg" style="float:left; padding:5px">
     <h3>Romacoon Doris Day "Doris"</h3>
     <p>

@@ -5,7 +5,6 @@ permalink: /kittens/
 ---
 # Plans for 2025:
 
- - Alisika Clockwork Orange 🧡 & Alisika Scarlett O'Hara 
  - Romacoon Doris Day &  Kelferron Glitter Rock ?
  - Tolinka Rowena & Kelferoon Glitter Rock or Alisika Clockwork Orange ?
 
