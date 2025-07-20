@@ -9,12 +9,16 @@ These are my beautiful queens & studs:
     <h1>Studs</h1>
 </div>
 
-<div class="notice">
+<!-- <div class="notice">
     <img src="/assets/images/studqueen/arthur.jpg" style="float:left; padding:10px"/>
     <h3>Alisika Clockwork Orange "Arthur"</h3>
     <p>Arthur is the new kid on the block - he has come from my very good friend Alison Blades - Alisika Maine Coons. Can't wait to see how this lad matures. </p>
     
     <p>He is a gorgeous red tabby.</p>
+</div> -->
+
+<div class="notice">
+Watch this space...
 </div>
 
 <div style="clear:left"></div>
@@ -33,13 +37,13 @@ These are my beautiful queens & studs:
 
 <div style="clear:both"></div>
 
-<div class="notice">
+<!-- <div class="notice">
     <img src="/assets/images/studqueen/doris.jpg" style="float:left; padding:5px">
     <h3>Romacoon Doris Day "Doris"</h3>
     <p>
     This little lady is my homebred solid tortie and white girl. From the moment she was born I knew she would stay. Doris is the daughter of Wilma.
     </p>
-</div>
+</div> -->
 
 <div style="clear:both"></div>
 
@@ -52,3 +56,7 @@ These are my beautiful queens & studs:
 </div>
 
 <div style="clear:both"></div>
+
+<div class="notice">
+Watch this space...
+</div>
