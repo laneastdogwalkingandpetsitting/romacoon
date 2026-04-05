@@ -3,15 +3,12 @@ layout: page
 title: Kittens
 permalink: /kittens/
 ---
-# 2025:
+# 2026:
 
 <div class="notice--warning">
-	Rowena gave birth on the 25th June 2025 to a litter of beautiful kittens.
+	Romacoon will be taking a well earned break this year. 
 </div>
 
-<div class="notice--danger">
-	Coming soon - mating Tolinka Rowena soon ... Details to follow.
-</div>
 
 For more information, please read the kitten information below &amp; [FAQ's](/faqs/) page for further details.
 
