@@ -6,7 +6,7 @@ permalink: /kittens/
 # 2026:
 
 <div class="notice--warning">
-	Romacoon will be taking a well earned break this year. 
+	Kittens due mid July - watch this space...
 </div>
 
 
